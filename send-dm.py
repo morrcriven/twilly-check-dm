@@ -9,7 +9,6 @@ import tweepy
 import pandas as pd
 import numpy as np
 import datetime
-import matplotlib.pyplot as plt
 
 # Installation / Access to Twitter account
 consumer_key = ''
